@@ -1,3 +1,9 @@
 *
 !README
 !.gitignore
+
+# Scripts
+!checkout.sh
+!clone.sh
+!pull.sh
+!extensions.list
