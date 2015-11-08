@@ -26,12 +26,16 @@
 		"wikimedia/cdb": "1.0.1",
 		"wikimedia/composer-merge-plugin": "1.0.0",
 		"wikimedia/utfnormal": "1.0.2",
-		"zordius/lightncandy": "0.18"
+		"zordius/lightncandy": "0.18",
+		"mediawiki/semantic-media-wiki": "*",
+		"mediawiki/semantic-result-formats": "*",
+		"mediawiki/semantic-forms": "*",
+		"mediawiki/semantic-maps": "*"
 	},
 	"require-dev": {
 		"jakub-onderka/php-parallel-lint": "~0.8",
 		"justinrainbow/json-schema": "~1.3",
-		"phpunit/phpunit": "~4.5",
+		"phpunit/phpunit": "3.7.37",
 		"mediawiki/mediawiki-codesniffer": "0.1.0"
 	},
 	"suggest": {

@@ -70,3 +70,6 @@ Thumbs.db
 /tags
 /.htaccess
 /.htpasswd
+
+# Backup
+PsychonautWiki.xml.gz
